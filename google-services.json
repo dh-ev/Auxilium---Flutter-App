@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "258664873183",
+    "project_id": "auxilium-app-dhev",
+    "storage_bucket": "auxilium-app-dhev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258664873183:android:85c07bde6cd79fa570bd6a",
+        "android_client_info": {
+          "package_name": "com.example.auxilium"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBoiqFxmiAshdcKJW_MUZ4ITCmvLvHFxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
